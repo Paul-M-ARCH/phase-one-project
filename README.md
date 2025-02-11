@@ -85,7 +85,7 @@ Mooney’s engine type had one of the safest records.
 
 ✔ Bar chart – Accident rate per engine type
 
-![image](https://github.com/user-attachments/assets/114026e9-76ea-4d2b-ba0a-4700b095bb80)
+![image](https://github.com/user-attachments/assets/81c281de-5ba5-46b8-9f9c-151a2ef7a431)
 
 5️⃣**Weather & Accident Correlation**
 Accidents were analyzed based on weather conditions (Weather.Condition).
