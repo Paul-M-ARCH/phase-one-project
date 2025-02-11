@@ -18,7 +18,7 @@ Which aircraft manufacturer presents the lowest risk?
 📊 **Data Overview**
 The dataset used for this analysis consists of aviation accident records from 1963 to 2023, obtained from the National Transportation Safety Board (NTSB).
 
-📌 **Key Variables Analyzed**:
+# Key Variables Analyzed:
 
 Event.Id – ID of the accident
 
