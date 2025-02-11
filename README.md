@@ -54,8 +54,7 @@ Mooney Aircraft Corporation had one of the lowest accident frequencies, making i
 
 ✔ Bar chart –  Total Accident counts per aircraft make
 
-![image](https://github.com/user-attachments/assets/ae5d76a8-fded-4247-a09d-dd01b67bbb25)
-
+![image](https://github.com/user-attachments/assets/b5391b18-919d-49fc-ad2e-54023509582d)
 
 2️⃣ **Injury & Fatality Rate Analysis**
 Fatality rate = Total.Fatal.Injuries / Total Accidents
@@ -66,17 +65,13 @@ Mooney Aircraft had one of the lowest fatality rates, reinforcing its safety rec
 
 ✔ Bar chart – Top 10 safest and riskiest aircraft based on fatality rate
 
-![image](https://github.com/user-attachments/assets/ec0f8076-f84c-405a-8eab-49f8ba833bda)
-
+![image](https://github.com/user-attachments/assets/167d83c0-60c4-40f2-84d8-b0434250ce8a)
 
 3️⃣ **Total Uninjured by Make and Total Uninjured by Engine Type**
 Yearly accidents were analyzed to determine if certain aircraft makes are improving in safety over time.
 Mooney Aircraft had a consistently low accident rate over the years.
 
 📊 Visualization:
-
-![image](https://github.com/user-attachments/assets/6763569c-37af-4f64-8d2f-c46d5d8d2256)
-
 
 ✔ Bar chart - Total Uninjured by Make and Total Uninjured by Engine Type
 
@@ -90,8 +85,7 @@ Mooney’s engine type had one of the safest records.
 
 ✔ Bar chart – Accident rate per engine type
 
-![image](https://github.com/user-attachments/assets/823a97fd-ef08-49e1-b78e-b7573c4d5a40)
-
+![image](https://github.com/user-attachments/assets/114026e9-76ea-4d2b-ba0a-4700b095bb80)
 
 5️⃣**Weather & Accident Correlation**
 Accidents were analyzed based on weather conditions (Weather.Condition).
@@ -101,8 +95,7 @@ Aircraft operating in poor weather conditions (IMC - Instrument Meteorological C
 
 ✔ Stacked bar chart – Accident distribution by weather condition for different aircraft
 
-![image](https://github.com/user-attachments/assets/07cef1f8-b0ca-42ca-934f-24186d03398e)
-
+![image](https://github.com/user-attachments/assets/9b032944-563d-412f-8a71-1eeee80bd807)
 
 6️⃣ **Statistical Analysis**
 
