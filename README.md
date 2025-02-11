@@ -1,5 +1,5 @@
 # phase-one-project
-**Aviation Accident Risk Analysis**
+# Aviation Accident Risk Analysis
 
 📌 **Project Overview**
 This project analyzes aviation accident data to identify the safest aircraft for investment. The goal is to help a company entering the aviation industry determine 
